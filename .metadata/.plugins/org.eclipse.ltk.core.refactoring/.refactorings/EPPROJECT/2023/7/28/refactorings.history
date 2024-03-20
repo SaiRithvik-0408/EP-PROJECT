@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;EPPROJECT&apos;&#x0D;&#x0A;- Original project: &apos;EPPROJECT&apos;&#x0D;&#x0A;- Original element: &apos;EPPROJECT/src/main/java/com.klef.ep.EPPROJECT&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.klef.ep.EPPROJECT" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.klef.ep" element3="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.klef" element4="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1689085158902" subPackages="false" version="1.0"/>
+</session>

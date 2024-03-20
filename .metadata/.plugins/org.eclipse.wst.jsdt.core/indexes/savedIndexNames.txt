@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\rithv\OneDrive\Desktop\EP\PROJECTWORKSPACE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1392216375.index
+601916948.index
+1899418290.index
+203115188.index
+2543913798.index
+3871633799.index
